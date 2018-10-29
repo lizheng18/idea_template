@@ -1,7 +1,7 @@
 package com.template.common
 /**
  * Created by lizheng18 2018/10/25
- *
+ * 主要用于类copy属性
  */
 
 def result = '';
