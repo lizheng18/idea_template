@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cc4124b-fd99-443e-a1e4-0e3316e2e4fe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="3cc4124b-fd99-443e-a1e4-0e3316e2e4fe" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,10 +54,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="48" />
     <option name="y" value="23" />
-    <option name="width" value="1392" />
-    <option name="height" value="825" />
+    <option name="width" value="1440" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -215,16 +212,15 @@
       <workItem from="1540437864093" duration="860000" />
       <workItem from="1540451498953" duration="57000" />
       <workItem from="1542891938534" duration="661000" />
-      <workItem from="1563454526500" duration="457000" />
+      <workItem from="1563454526500" duration="657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1618000" />
+    <option name="totallyTimeSpent" value="1818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
