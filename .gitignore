@@ -42,3 +42,4 @@ src/main/resources/rebel.xml
 node_modules/
 .vscode/
 /bin/
+.idea/workspace.xml

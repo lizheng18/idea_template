@@ -9,13 +9,13 @@ def params="${_1}".replaceAll('[\\[|\\]|\\s]', '').split(',').toList();
 def methodName="${_2}";
 def className="${_3}";
 
-result += "logger.error(\"#" + className + "." + methodName + "# error params:";
+result += "log.error(\"#" + className + "." + methodName + "# error params:";
 for (String param : params) {
     result += " " + param + "={}"
 }
 result += "\","
 for (String param : params) {
-    result += "JSON.toJSONString(" + param + "),"
+    result += "JsonUtils.toJSON(" + param + "),"
 }
 result += "e);"
 
